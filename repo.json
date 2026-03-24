@@ -1,0 +1,8 @@
+{
+  "name": "awiptk Extensions",
+  "shortName": "awiptk",
+  "website": "https://github.com/awiptk/extensions-source",
+  "hasSplitApk": true,
+  "redirectLink": "tachiyomi://add-repo?url=https://raw.githubusercontent.com/awiptk/extensions/repo/index.min.json",
+  "signingKeyFingerprint": ""
+}
